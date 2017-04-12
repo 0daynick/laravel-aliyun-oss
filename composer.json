@@ -1,0 +1,26 @@
+ {
+    "name": "overnic/laravel-aliyun-oss",
+    "type": "library",
+    "description": "Aliyun oss for Laravel5, also support flysystem adapter",
+    "keywords": ["aliyun", "oss", "laravel", "flysystem"],
+    "homepage": "https://github.com/overnic/aliyun-oss",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "overnic",
+            "email": "overnic@httpd.cc"
+        }
+    ],
+    "require": {
+      "php": ">=5.4.0",
+      "illuminate/support": "~5.0|~5.1|~5.2",
+      "league/flysystem": "~1.0",
+      "guzzle/guzzle": "3.7.1"
+    },
+    "autoload": {
+      "psr-4": {
+        "OverNic\\AliyunOss\\": "src/",
+        "Aliyun\\":"src/Aliyun"
+      }
+    }
+}
