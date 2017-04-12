@@ -14,7 +14,7 @@ This service provider must be registered.
 
 'providers' => [
     '...',
-    'Orzcc\AliyunOss\AliyunOssServiceProvider',
+    'Overnic\AliyunOss\AliyunOssServiceProvider',
 ];
 ```
 
