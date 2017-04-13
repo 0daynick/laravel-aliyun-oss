@@ -2,7 +2,6 @@
 
 use Storage;
 use Aliyun\OSS\OSSClient;
-use Orzcc\AliyunOss\AliyunOssAdapter;
 use League\Flysystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
 
