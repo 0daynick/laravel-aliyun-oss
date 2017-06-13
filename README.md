@@ -5,7 +5,8 @@ Aliyun oss for Laravel5, also support flysystem adapter.
 
 This package can be installed through Composer.
 ```bash
-composer require orzcc/aliyun-oss
+composer require overnic/laravel-aliyun-oss
+
 ```
 
 This service provider must be registered.
