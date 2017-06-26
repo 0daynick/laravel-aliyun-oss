@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Aliyun oss for Laravel5, also support flysystem adapter",
     "keywords": ["aliyun", "oss", "laravel", "flysystem"],
-    "homepage": "https://github.com/overnic/aliyun-oss",
+    "homepage": "https://github.com/overnic/laravel-aliyun-oss",
     "license": "MIT",
     "authors": [
         {
